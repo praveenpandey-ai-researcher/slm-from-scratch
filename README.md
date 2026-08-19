@@ -1,4 +1,4 @@
-# Mini GPT from Scratch
+# SLM from Scratch
 
 A small **decoder-only language model built from scratch in PyTorch**, developed through a series of experiments — starting with TinyStories and gradually moving toward OpenOrca-based pretraining and conversational text generation.
 
